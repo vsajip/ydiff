@@ -2,6 +2,13 @@
 Change log
 ==========
 
+Version 1.5 (2025-12-06)
+
+    - Support customized themes in INI format
+    - Only read stdin when redirected from a regular file or pipe
+    - Apply --color=never option to git diff and git log
+    - Release both source and wheel packages
+
 Version 1.4.2 (2024-11-18)
 
     - Compatibility Fix: Ensure ydiff works properly with Python 3.3 and later.

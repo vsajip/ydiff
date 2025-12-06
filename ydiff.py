@@ -12,7 +12,7 @@ import subprocess
 import sys
 import unicodedata
 
-__version__ = '1.4.2'
+__version__ = '1.5'
 __homepage__ = 'https://github.com/ymattw/ydiff'
 __description__ = ('View colored, incremental diff in a workspace or from '
                    'stdin, in side-by-side or unified moded, and auto paged.')
